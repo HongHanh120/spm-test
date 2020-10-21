@@ -1,0 +1,16 @@
+.InvoicePage {
+  .HeaderElements {
+    svg {
+      margin: 0 5px;
+    }
+  }
+  .FooterInvoice {
+    display: flex;
+    flex-wrap: wrap;
+
+    .TotalDue {
+      min-width: 400px;
+      margin-left: auto;
+    }
+  }
+}

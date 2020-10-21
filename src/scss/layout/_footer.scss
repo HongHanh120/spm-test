@@ -1,0 +1,34 @@
+.Footer {
+  background-color: #fff;
+  border-top: solid 1px rgba(0, 0, 0, .125);
+  font-size: 14px;
+  color: #636e72;
+  font-weight: 400;
+  padding-top: 30px;
+
+  a {
+    display: block;
+    font-size: 14px;
+    color: #636e72;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+
+  .Title {
+    font-weight: 500;
+  }
+
+  .Info {
+    img {
+      max-width: 200px;
+      max-height: 40px;
+      margin-bottom: 10px;
+    }
+  }
+
+  .Copyright {
+    border-top: solid 1px rgba(0, 0, 0, .125);
+    font-size: 12px;
+    padding: 10px;
+  }
+}

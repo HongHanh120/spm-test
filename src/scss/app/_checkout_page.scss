@@ -1,0 +1,51 @@
+.CheckoutPage {
+  .CheckoutDetails {
+    svg {
+      margin-left: 5px;
+    }
+  }
+  .ItemDetails {
+    .OrderListItems {
+      font-size: 16px;
+    }
+
+    .OrderDetails {
+      font-size: 16px;
+      font-weight: 500;
+      border-top: solid 1px #eeeeee;
+
+      .Top {
+        padding: 12px 0;
+      }
+
+      .Bottom {
+        padding: 12px 0;
+        border-top: solid 1px #eeeeee;
+      }
+    }
+
+    .table {
+      img {
+        width: 63px;
+        height: 84px;
+        object-fit: cover;
+        border-radius: .1875rem;
+      }
+
+      td {
+        vertical-align: top;
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .CheckoutPage {
+    .ItemDetails {
+      .OrderDetails {
+        border-top: none;
+        border-left: solid 1px #eeeeee;
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+.ProductGridCard {
+  .ImageContainer {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding-top: 125%;
+
+    .ImageContent {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .CardTitle {
+    display: block;
+    font-weight: 700;
+    color: #606975;
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    &:hover {
+      color: #606ddd;
+    }
+  }
+
+  .Price {
+    margin: 10px 0;
+
+    span {
+      font-weight: 700;
+      color: #e83e8c;
+      font-size: 1.2rem;
+    }
+  }
+}
