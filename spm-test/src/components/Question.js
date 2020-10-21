@@ -5,12 +5,14 @@ class Question extends Component {
     render() {
         const {question} = this.props;
         const answers = question.answers.sort(() => 0.5 - Math.random());
+        const image = question.image;
 
         return (
             <div className='Answer'>
                 <div className='form-group pt-2'>
-                    <label className='font-weight-semibold'>
+                    <label className='font-weight-bold'>
                         {question.question}
+                        <img src={image} alt=''/>
                     </label>
                     {
                         answers.map(answer => {

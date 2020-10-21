@@ -14,7 +14,7 @@ class Answer extends Component {
             if(checked && corrects.includes(answer.key)) {
                 this.setState({color: 'blue'})
             }
-            if(checked && !corrects.includes(answer.key)) {
+            else if(!checked && corrects.includes(answer.key)) {
                 this.setState({color: 'red'})
             }
             else {
