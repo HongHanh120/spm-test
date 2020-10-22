@@ -1,4 +1,4 @@
-{"test6": [
+{"test8": [
   {
     "corrects": [
       "D"
@@ -6,22 +6,22 @@
     "answers": [
       {
         "key": "T1",
-        "text": "quyết định dự toán kinh phí (budget)"
+        "text": "Giám đốc dự án, đội dự án, các giám đốc cao cấp và khách hàng"
       },
       {
         "key": "T2",
-        "text": "lựa chọn mô hình để tổ chức nhóm dự án"
+        "text": "Giám đốc cao cấp, giám đốc chức năng, khách hàng và nhà tài trợ"
       },
       {
         "key": "T3",
-        "text": "quyết định các ràng buộc/giả định của dự án"
+        "text": "Giám đốc dự án, giám đốc chức năng, khách hàng và giám đốc cao cấp"
       },
       {
         "key": "D",
-        "text": "thiết lập mục đích và phạm vi dự án"
+        "text": "Giám đốc dự án, khách hàng, tổ chức thực hiện và các nhà tài trợ"
       }
     ],
-    "question": "Bước đầu tiên của lập kế hoạch dự án là …",
+    "question": "Bốn đối tượng liên quan chính trong mỗi dự án?",
     "image": ""
   },
   {
@@ -31,22 +31,22 @@
     "answers": [
       {
         "key": "T1",
-        "text": "Các phương pháp để giải quyết vấn đề trong nghiệp vụ đích về tin học hóa phải được xác định trong giai đoạn cuối của thiết kế hệ thống để cho công nghệ hệ thống mới nhất có thể được đưa vào"
+        "text": "Giai đoạn thực thi"
       },
       {
         "key": "T2",
-        "text": "Phạm vi và mục tiêu của dự án phải được làm rõ ràng sau khi dự án bước vào pha thiết kế hệ thống, như được yêu cầu"
+        "text": "Giai đoạn hoàn thiện"
       },
       {
         "key": "T3",
-        "text": "Người quản lý dự án phải quản lý dự án theo bản kế hoạch tin học hóa"
+        "text": "Giai đoạn xây dựng"
       },
       {
         "key": "D",
-        "text": "Người quản lý dự án phải chuẩn bị kế hoạch dự án của riêng mình và đạt được sự chấp thuận, cho dù bản kế hoạch tin học hóa đã được phát triển"
+        "text": "Giai đoạn lập kế hoạch"
       }
     ],
-    "question": "Phát biểu nào sau đây là thích hợp như là chìa khóa để thành công của dự án phát triển hệ thống?",
+    "question": "Các nhà tài trợ dự án có ảnh hưởng lớn nhất đến phạm vi, chất lượng, thời đoạn và chi phícủa dự án trong suốt giai đoạn nào?",
     "image": ""
   },
   {
@@ -56,22 +56,22 @@
     "answers": [
       {
         "key": "D",
-        "text": "Dùng chung tài nguyên (Resource pooling)"
+        "text": "Khả năng về nguồn lực"
       },
       {
         "key": "T1",
-        "text": "Kỹ nghệ tương tranh (Concurrent engineering)"
+        "text": "Chi phí nhiệm vụ"
       },
       {
         "key": "T2",
-        "text": "Phân bổ tài nguyên quá mức (Resource over-allocation)"
+        "text": "Thông tin lịch sử về các dự án đã hoàn thành"
       },
       {
         "key": "T3",
-        "text": "Quản lý các dự án cos lien quan (Program management)"
+        "text": "Những người đi trước và người thành công"
       }
     ],
-    "question": "Giả sử có rất nhiều dự án cùng được triển khai tại một công ty. Các dự án này sử dụng chung nguồn nhân lực của công ty cũng như các tài nguyên khác. Thuật ngữ nào sau đây là phù hợp với tình huống này?",
+    "question": "Nhân tố nào ảnh hưởng lớn nhất tới thời đoạn thực tế của các nhiệm vụ dự án?",
     "image": ""
   },
   {
@@ -81,22 +81,22 @@
     "answers": [
       {
         "key": "D",
-        "text": "Đảm bảo tính thống nhất trong kế hoạch của dự án là thứ yếu vì nó chỉ là kết quả của quá trình thay đổi trong thực hiện dự án."
+        "text": "Khoán ngoài (outsourcing)"
       },
       {
         "key": "T1",
-        "text": "Đừng bao giờ thực hiện dự án khi chưa có một kế hoạch tốt được cập nhật, đồng nhất và đã được kiểm tra cẩn thận."
+        "text": "Hệ thống mở"
       },
       {
         "key": "T2",
-        "text": "Việc sửa đổi và cập nhật kế hoạch dự án (nếu cần thiết) ảnh hưởng lớn đến tiến độ của dự án nhưng nó giúp tang khả năng thỏa mãn yêu cầu đối với khách hàng. Các thay đổi này cần thông báo kịp thời tới khách hang và các bên liên quan khác."
+        "text": "Giảm cỡ (Down-sizing)"
       },
       {
         "key": "T3",
-        "text": "Những yếu kém trong quá trình cập nhật/sửa đổi kế hoạch dự án là một trong những nguyên nhân chính dẫn đến dự án vượt thời gian và kinh phí"
+        "text": "Làm đúng cỡ (Right-sizing)"
       }
     ],
-    "question": "Tìm phát biểu sai trong các phát biểu sau:",
+    "question": "Thuật ngữ nào sau đây liên quan đến việc thực hiện đưa một công việc thầu phụ ví dụ như xây dựng vận hành và quản trị hệ thống ra một công ty bên ngoài?",
     "image": ""
   },
   {
@@ -106,22 +106,22 @@
     "answers": [
       {
         "key": "D",
-        "text": "Các yêu cầu chính, WBS và WBS dictionary"
+        "text": "Đội ngũ dân chủ bao gồm các thành viên có quyền hạn và nghĩa vụ ngang nhau. Cho phép trao đổi ý kiến tự do, nhưng người lãnh đạo không thể phát huy vai trò lãnh đạo kiên quết được."
       },
       {
         "key": "T1",
-        "text": "Mốc thời gian về kinh phí thực hiện, mốc thời gian đảm bảo chất lượng và mốc thời gian về lịch trình dự án"
+        "text": "Đội có cấu trúc phân cấp bao gồm một người quản trị, nhiều người lãnh đạo và các nhân viên. Ưu điểm là ở chỗ trách nhiệm của từng thành viên được xác định rõ ràng, nhưng nhược điểm là ở chỗ thường tồn tại những vấn đề về trao đổi thông tin."
       },
       {
         "key": "T2",
-        "text": "Kế hoạch quản lý cấu hình và quản lý thay đổi"
+        "text": "Một đội chuyên gia bao gồm các thành viên có chuyên môn và kỹ năng. Được kiểm soát bởi người quản lý là chuyên viên quản lý."
       },
       {
         "key": "T3",
-        "text": "Các yêu cầu chính và quy trình thực hiện"
+        "text": "Trong đội lập trình viên chính, người lãnh đạo có thể phát huy vai trò lãnh đạo kiên quyết nhưng cũng chịu một gánh nặng. Do đó, khó áp dụng vào dự án quy mô lớn và dài hạn."
       }
     ],
-    "question": "Các mốc thời gian quan trọng của dự án dựa trên:",
+    "question": "Mô tả nào sau đây là mô tả thích hợp liên quan tới tổ chức của đội phát triển phần mềm?",
     "image": ""
   },
   {
@@ -131,22 +131,22 @@
     "answers": [
       {
         "key": "D",
-        "text": "Giúp cho quản lý dự án tiến hành các ước lượng phù hợp về chi phí và lịch trình thực hiện dự án"
+        "text": "Những chỉ thị có thể chuyển từ trên xuống dưới một cách nhất quán bằng cách chia tổ chức thành vài tầng và thiết bị lập trách nhiệm cũng như quyền lực mỗi tầng."
       },
       {
         "key": "T1",
-        "text": "Thuyết phục khách hàng tin vào tính khả thi của dự án"
+        "text": "Vì một thành viên trong tổ chức có thể nhận chỉ thị từ một hoặc nhiều người cấp trên, điều quan trọng là xây dựng một tổ chức có thể hỗ trợ điều đó."
       },
       {
         "key": "T2",
-        "text": "Xây dựng dữ liệu lịch sử phát triển dự án"
+        "text": "Một hệ thống tổ chức mà trong đó mỗi thành viên riêng biệt có thể chịu trách nhiệm đối với một quy trình nghiệp vụ chuyên môn là không nên. Sự hài hòa với những người khác là điều quan trọng."
       },
       {
         "key": "T3",
-        "text": "Để quyết định lợi ích về mặt kinh phí khi thực hiện dự án"
+        "text": "Mặc dù việc xác định mở rộng kiểm soát là quan trọng, nhưng không thể xác định trước số lượng thích hợp nhưng người cấp dưới mà mỗi người cấp trên có thể quản lý. Do đo, tốt hơn cả là có một người quản lý được càng nhiều càng tốt."
       }
     ],
-    "question": "Một trong những mục đích của lập kế hoạch dự án là …",
+    "question": "Phát biểu nào sau đây là phát biểu về những nguyên tắc cơ bản về cấu trúc của một tổ chức?",
     "image": ""
   },
   {
@@ -156,22 +156,22 @@
     "answers": [
       {
         "key": "D",
-        "text": "Phần mềm đã hoàn tất việc kiểm thử chấp thuận người dùng"
+        "text": "Trong trường hợp phát triển hệ thống theo hợp đồng thầu khoán, mọi bản quyền về chương trình đã phát triển đều thuộc vào người thầu trừ phi được xác định khác."
       },
       {
         "key": "T1",
-        "text": "Nhà tài trợ điều hành ký kết hoàn tất các yêu cầu"
+        "text": "Một hợp đồng uỷ thác không quy định trách nhiệm cho việc hoàn thành công việc; do đó bên uỷ thác có quyền chỉ đạo trực tiếp."
       },
       {
         "key": "T2",
-        "text": "Hoàn thành việc phân bổ nhân lực"
+        "text": "Trong trường hợp phát triển hệ thống theo hợp đồng khoán ngoài hay hợp đồng cho thuê lao động, người thầu chịu trách nhiệm hoàn thành công việc."
       },
       {
         "key": "T3",
-        "text": "Hoàn thành việc chuẩn bị cở sở hạ tầng"
+        "text": "Nếu phát hiện khiếm khuyết nghiêm trọng trong chương trình do người phát triển làm ra, mà người này được cử tới từ công ty khác, thì công ty đó có trách nhiệm với khiếm khuyết đó."
       }
     ],
-    "question": "Mục nào sau đây thể hiện mốc quan trọng của dự án?",
+    "question": "Mệnh đề nào sau đây là đúng cho việc thuê công ty bên ngoài phát triển hệ thống?",
     "image": ""
   },
   {
@@ -181,272 +181,114 @@
     "answers": [
       {
         "key": "D",
-        "text": "Biểu đồ mốc quan trọng"
+        "text": "Chủ đầu tư (sponsor)"
       },
       {
         "key": "T1",
-        "text": "Lược đồ hoạt động mũi tên"
+        "text": "Khách hàng"
       },
       {
         "key": "T2",
-        "text": "Biểu đồ PERT"
+        "text": "Các lãnh đạo công ty"
       },
       {
         "key": "T3",
-        "text": "Biểu đồ Grantt"
+        "text": "Nhân viên đội dự án"
       }
     ],
-    "question": "Người điều hành cao cấp của công ty bạn muốn cập nhật lịch trình dự án hàng tháng. Bạn sẽ gửi thông tin nào sau đây cho người điều hành?",
+    "question": "Thách thức lớn nhất khi quản lý các bên liên quan là làm việc với…",
     "image": ""
   },
   {
     "corrects": [
-      "D"
+      "T1",
+      "T2",
+      "T3"
     ],
     "answers": [
       {
-        "key": "D",
-        "text": "Nếu công việc (2)→(4) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng được rút ngắn lại một ngày."
-      },
-      {
         "key": "T1",
-        "text": "Nếu công việc (1)→(3) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày."
+        "text": "Mỗi người có một sở trường sở đoản riêng."
       },
       {
         "key": "T2",
-        "text": "Nếu công việc (3)→(5) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày."
+        "text": "Quản lý dự án không thể thay đổi con người của mỗi thành viên dự án."
       },
       {
         "key": "T3",
-        "text": "Nếu công việc (6)→(8) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày."
+        "text": "Quản lý dự án phải biết được điểm mạnh điểm yếu của từng thành viên."
       }
     ],
-    "question": "Diễn giải nào sau đây là thích hợp cho biểu đồ mũi tên được vẽ dưới đây? Ở đây, con số được viết bên cạnh mũi tên chỉ ra số ngày cần cho từng công việc (từng cạnh) tương ứng.",
-    "image": "https://trello-attachments.s3.amazonaws.com/5f904118515bc015b4ff108c/5f9060d9b2e6124c7ddddcb5/1ecaae324c08e9e4629d4cea1bb82e49/test6-1.png"
-  },
-  {
-    "corrects": [
-      "D"
-    ],
-    "answers": [
-      {
-        "key": "D",
-        "text": "Nó làm cho chỉ thoáng nhìn cũng có thể biết được các điểm bắt đầu và kết thúc theo thời gian của từng công việc."
-      },
-      {
-        "key": "T1",
-        "text": "Nó làm cho có thể làn sáng tỏ thứ tự các hoạt động và nhận ra đường xương sống của dự án."
-      },
-      {
-        "key": "T2",
-        "text": "Nó làm cho có thể dễ dàng tính toán thả nổi tự do (free float) của từng công việc."
-      },
-      {
-        "key": "T3",
-        "text": "Nó là cho có thể dễ dàng nhận ra các công việc được quản lý một cách tăng cường"
-      }
-    ],
-    "question": "Mô tả nào sau đây là thích hợp liên quan tới các đặc điểm của biểu đồ Gantt được dùng để quản lý quy trình và quản lý tiến độ trong dự án?",
+    "question": "Đâu là lý do của việc phải sử dụng đúng người đúng việc trong phân bổ nhân lực của dự án?",
     "image": ""
   },
   {
     "corrects": [
-      "D"
+      "T1",
+      "T2",
+      "T3"
     ],
     "answers": [
       {
-        "key": "D",
-        "text": "Biểu đồ Gantt"
-      },
-      {
         "key": "T1",
-        "text": "Sơ đồ SD (Schema Deviation)"
+        "text": "phải có cái nhìn tổng thể về dự án, các bên liên quan, các hạng mục công việc,…"
       },
       {
         "key": "T2",
-        "text": "Biểu đồ Venn"
+        "text": "luôn biết đâu là việc đúng cần phải làm (danh sách công việc, WBS, Project network, Grant chart là các công cụ hữu ích)"
       },
       {
         "key": "T3",
-        "text": "Sơ đồ phân cấp công việc"
+        "text": "luôn biết ai là người phù hợp để cổ vũ, động viên kịp thời và luôn nhấn mạnh ý nghĩa của công việc."
       }
     ],
-    "question": "Sơ đồ hoặc biểu đồ nào sau đây được dùng để hiển thị lịch công việc và sự thực hiện?",
+    "question": "Những yêu cầu cơ bản của một quản lý dự án để thể hiện tốt vai trò lãnh đạo dự án là…",
     "image": ""
   },
   {
     "corrects": [
-      "D"
+      "T1",
+      "T2",
+      "T3"
     ],
     "answers": [
       {
-        "key": "D",
-        "text": "Ngày 20"
-      },
-      {
         "key": "T1",
-        "text": "Ngày 18"
+        "text": "Vì minh bạch chính trực là nền tảng cho dự án thành công"
       },
       {
         "key": "T2",
-        "text": "Ngày 17"
+        "text": "Vì minh bạch chính trực là nền tảng cho hiệu quả và chất lượng công việc"
       },
       {
         "key": "T3",
-        "text": "Ngày 19"
+        "text": "Vì quản lý dự án phải làm gương. Khi nhân viên không tin tưởng, quản lý dự"
       }
     ],
-    "question": "Trong dự án minh hoạ trong sơ đồ PERT dưới đây, ngày bắt đầu tiến hành công việc L sớm nhất là ngày bao nhiêu? Ngày bắt đầu triển khai dự án là ngày 1.",
-    "image": "https://trello-attachments.s3.amazonaws.com/5f904118515bc015b4ff108c/5f9060dc2d5ee42de29db22c/b27fe4ad814a966c98a9672667211426/test6-2.png"
-  },
-  {
-    "corrects": [
-      "D"
-    ],
-    "answers": [
-      {
-        "key": "D",
-        "text": "Ngày 17"
-      },
-      {
-        "key": "T1",
-        "text": "Ngày 16"
-      },
-      {
-        "key": "T2",
-        "text": "Ngày 18"
-      },
-      {
-        "key": "T3",
-        "text": "Ngày 15"
-      }
-    ],
-    "question": "Trong dự án minh hoạ trong sơ đồ PERT dưới đây, ngày kết thúc công việc C muộn nhất là ngày bao nhiêu? Ngày bắt đầu triển khai dự án là ngày 1.",
-    "image": "https://trello-attachments.s3.amazonaws.com/5f904118515bc015b4ff108c/5f9060dc2d5ee42de29db22c/b27fe4ad814a966c98a9672667211426/test6-2.png"
-  },
-  {
-    "corrects": [
-      "D"
-    ],
-    "answers": [
-      {
-        "key": "D",
-        "text": "31"
-      },
-      {
-        "key": "T1",
-        "text": "29"
-      },
-      {
-        "key": "T2",
-        "text": "28"
-      },
-      {
-        "key": "T3",
-        "text": "27"
-      }
-    ],
-    "question": "Hình vẽ sau biểu diễn lịch công việc (từ A đến I) của một dự án và số ngày làm việc của dự án đó. Số ngày tối thiểu cần thiết để hoàn thành dự án là bao nhiêu?",
-    "image": "https://trello-attachments.s3.amazonaws.com/5f904118515bc015b4ff108c/5f9060e16554131470f6e04b/9b389face6480b53692dbd4abff69f48/test6-3.png"
-  },
-  {
-    "corrects": [
-      "D"
-    ],
-    "answers": [
-      {
-        "key": "D",
-        "text": "A, B, G, D, I"
-      },
-      {
-        "key": "T1",
-        "text": "A, F, D, I"
-      },
-      {
-        "key": "T2",
-        "text": "A, B, H, I"
-      },
-      {
-        "key": "T3",
-        "text": "A, B, C, D, I"
-      }
-    ],
-    "question": "Hình vẽ sau biểu diễn lịch công việc (từ A đến I) của một dự án và số ngày làm việc của dự án đó. Đâu là đường xương sống của dự án?",
-    "image": "https://trello-attachments.s3.amazonaws.com/5f904118515bc015b4ff108c/5f9060e16554131470f6e04b/9b389face6480b53692dbd4abff69f48/test6-3.png"
-  },
-  {
-    "corrects": [
-      "D"
-    ],
-    "answers": [
-      {
-        "key": "D",
-        "text": "10 ngày"
-      },
-      {
-        "key": "T1",
-        "text": "9 ngày"
-      },
-      {
-        "key": "T2",
-        "text": "11 ngày"
-      },
-      {
-        "key": "T3",
-        "text": "8 ngày"
-      }
-    ],
-    "question": "Hình vẽ sau biểu diễn một phần lịch công việc của một dự án. Mỗi công việc có ngày bắt đầu sớm nhất – ngày kết thúc sớm nhất và ngày bắt đầu muộn nhất – ngày kết thúc muộn nhất. Số ngày mà công việc B có thể bắt đầu muộn nhất so với ngày bắt đầu sớm nhất là …",
-    "image": "https://trello-attachments.s3.amazonaws.com/5f904118515bc015b4ff108c/5f9060e57bc1083bdbdf2f2d/d3b1d5c3492b440dcf4c82546fcfe6d6/test6-4.png"
-  },
-  {
-    "corrects": [
-      "D"
-    ],
-    "answers": [
-      {
-        "key": "D",
-        "text": "Đây là ý tưởng rằng 80% nhiệm vụ có thể được hoàn thành trong 20% thời gian có sẵn. 20% còn lại 20% của nhiệm vụ sẽ mất 80% thời gian này."
-      },
-      {
-        "key": "T1",
-        "text": "Đây là ý tưởng rằng 20% nhiệm vụ có thể được hoàn thành trong thời gian 80% có sẵn. Còn lại 80% nhiệm vụ sẽ mất 20% thời gian này."
-      },
-      {
-        "key": "T2",
-        "text": "Đây là ý tưởng rằng 80% nhiệm vụ có thể được hoàn thành trong 50% thời gian có sẵn 20% còn lại 20% của nhiệm vụ sẽ mất 50% thời gian này."
-      },
-      {
-        "key": "T3",
-        "text": "Đây là ý tưởng rằng 50% nhiệm vụ có thể được hoàn thành trong 80% thời gian có sẵn. 50% còn lại 40% của nhiệm vụ sẽ mất 20% thời gian này."
-      }
-    ],
-    "question": "Phát biểu nào sau đây chính xác theo phân tích Pareto (cũng được gọi là quy tắc 80-20)?",
+    "question": "Tại sao tố chất minh bạch chính trực là rất quan trọng đối với quản lý dự án?",
     "image": ""
   },
   {
     "corrects": [
-      "D"
+      "T1",
+      "T2",
+      "T3"
     ],
     "answers": [
       {
-        "key": "D",
-        "text": "MS Project"
-      },
-      {
         "key": "T1",
-        "text": "MS Excel"
+        "text": "Người lãnh đạo có ý nghĩa trong mọi công việc."
       },
       {
         "key": "T2",
-        "text": "MS Word"
+        "text": "Tôn trọng đối tác, mình sẽ được tôn trọng."
       },
       {
         "key": "T3",
-        "text": "MS Access"
+        "text": "Làm việc với lãnh đạo sẽ quyết được nhiều việc nhanh và hiệu quả và cấp dưới của đối tác sẽ nỗ lực hơn."
       }
     ],
-    "question": "Công cụ nào sau đây có thể hỗ trợ để lập lịch biểu cho dự án?",
+    "question": "Tại sao quản lý dự án phải xây dựng mối quan hệ tốt với lãnh đạo của khách hàng?",
     "image": ""
   }
 ]

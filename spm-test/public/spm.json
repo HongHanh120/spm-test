@@ -2092,5 +2092,601 @@
     "question": "Công cụ nào sau đây có thể hỗ trợ để lập lịch biểu cho dự án?",
     "image": ""
   }
+],
+"test7": [
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "Khách hàng"
+      },
+      {
+        "key": "T2",
+        "text": "Người tài trợ dự án"
+      },
+      {
+        "key": "T3",
+        "text": "Các lãnh đạo cấp cao"
+      },
+      {
+        "key": "D",
+        "text": "Đội dự án"
+      }
+    ],
+    "question": "Nhóm người nào chịu trách nhiệm chính về chất lượng của dự án?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "Kiểm thử hộp trắng"
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm thử hộp xám"
+      },
+      {
+        "key": "T3",
+        "text": "Kiểm thử chấp nhận"
+      },
+      {
+        "key": "D",
+        "text": "Kiểm thử hộp đen"
+      }
+    ],
+    "question": "Chiến lược kiểm thử nào sử dụng đặc tả yêu cầu để sinh các ca kiểm thử?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Đảm bảo rằng hệ thống có thể chấp nhận được đối với tất cả người dùng"
+      },
+      {
+        "key": "T1",
+        "text": "Tìm lỗi trong hệ thống"
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm thử hệ thống với các hệ thống khác"
+      },
+      {
+        "key": "T3",
+        "text": "Kiểm thử một quan điểm công việc"
+      }
+    ],
+    "question": "Mục tiêu chính của kiểm thử chấp nhận là:",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống và kiểm thử chấp nhận"
+      },
+      {
+        "key": "T1",
+        "text": "Kiểm tra gia tăng, kiểm tra toàn diện, kiểm tra thăm dò và kiểm tra dữ liệu"
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận và kiểm thủ hồi quy"
+      },
+      {
+        "key": "T3",
+        "text": "Kiểm thử Alpha, kiểm thử Beta, kiểm thử hộp đen và kiểm thử hộp trắng"
+      }
+    ],
+    "question": "Những mức độ kiểm thử nào thường được dùng trong mô hình chữ V?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Code review"
+      },
+      {
+        "key": "T1",
+        "text": "Kiểm thử hiệu năng "
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm thử cấu trúc"
+      },
+      {
+        "key": "T3",
+        "text": "Kiểm thử chức năng"
+      }
+    ],
+    "question": "Hoạt động nào sau đây không cần thực thi/chạy chương trình?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Kiểm thử các thuộc tính của hệ thống bao gồm hiệu năng, khả năng chịu tải, tính dễ dùng, …"
+      },
+      {
+        "key": "T1",
+        "text": "Kiểm thử để xem liệu hệ thống có hoạt động đúng chức năng hay không"
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm thử các chức năng có thể không tồn tại"
+      },
+      {
+        "key": "T3",
+        "text": "Kiểm thử độ tin cậy của hệ thống"
+      }
+    ],
+    "question": "Kiểm thử các yêu cầu phi chức năng bao gồm:",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Kiểm thử hệ thống"
+      },
+      {
+        "key": "T1",
+        "text": "UAT (Kiểm thử chấp thuận người sử dụng)"
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm thử đơn vị"
+      },
+      {
+        "key": "T3",
+        "text": "Kiểm thử tích hợp"
+      }
+    ],
+    "question": "Đội dự án gần đi tới phần cuối cùng của việc xây dựng và sẵn sàng kiểm thử toàn bộ ứng dụng. Họ sẽ thực hiện loại hình kiểm thử nào?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Giám sát các kết quả của dự án cụ thể để xác định xem liệu chúng có tuân theo các\nchuẩn chất lượng liên quan hay không."
+      },
+      {
+        "key": "T1",
+        "text": "Đánh giá toàn bộ kết quả dự án trên cơ sở đều đặn."
+      },
+      {
+        "key": "T2",
+        "text": "Hoạt động để tăng tính hiệu lực và hiệu suất của dự án."
+      },
+      {
+        "key": "T3",
+        "text": "Xác định các chuẩn chất lượng nào liên quan tới dự án."
+      }
+    ],
+    "question": "Kiểm soát chất lượng là:",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Lập kế hoạch"
+      },
+      {
+        "key": "T1",
+        "text": "Xem xét kỹ lưỡng"
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm định chất lượng."
+      },
+      {
+        "key": "T3",
+        "text": "Phân tích xu hướng."
+      }
+    ],
+    "question": "Một trong các quy trình nào sau đây là quan trọng nhất để đáp ứng các mục tiêu quản lý chất lượng?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Kiểm thử người dùng nên chứng tỏ rằng hệ thống vận hành tốt với các yêu cầu đã được xác định."
+      },
+      {
+        "key": "T1",
+        "text": "Kiểm thử người dùng tạo cơ hội cho người dùng cải thiện nhu cầu của họ."
+      },
+      {
+        "key": "T2",
+        "text": "Kiểm thử người dùng tạo cơ hội tốt để nhận biết các sai sót trong mã nguồn."
+      },
+      {
+        "key": "T3",
+        "text": "Kiểm thử người dùng nên được thực hiện như một phần của giai đoạn đào tạo triển khai hệ thống."
+      }
+    ],
+    "question": "Phát biểu nào về kiểm thử chấp thuận người dùng là đúng?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Để đảm bảo rằng dự án tuân theo mong muốn của người sử dụng bởi vì nó liên quan tới chất lượng sản phẩm."
+      },
+      {
+        "key": "T1",
+        "text": "Để đảm bảo rằng dự án tuân theo mong muốn về ràng buộc kinh phí của người sử dụng."
+      },
+      {
+        "key": "T2",
+        "text": "Để đảm bảo rằng người sử dụng không đệ trình yêu cầu thay đổi muộn trong dự án."
+      },
+      {
+        "key": "T3",
+        "text": "Để đảm bảo rằng người sử dụng sẽ không có ý kiến gì thêm khi sử dụng sản phẩm."
+      }
+    ],
+    "question": "Tại sao việc lấy ý kiến của người sử dụng về khả năng chấp nhận sản phẩm là một phần của kế hoạch quản lý chất lượng?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Các hoạt động được lập kế hoạch và có hệ thống đảm bảo rằng các tiêu chí chất lượng được chỉ rõ trong một dự án được đáp ứng."
+      },
+      {
+        "key": "T1",
+        "text": "Xác định phương pháp loại bỏ nguyên nhân của một kết quả không thỏa mãn liên quan đến tiêu chí chất lượng được chỉ rõ cho một dự án."
+      },
+      {
+        "key": "T2",
+        "text": "Giám sát xem liệu kết quả thực hiện dự án có tuân thủ các tiêu chí chất lượng đã được chỉ rõ hay không."
+      },
+      {
+        "key": "T3",
+        "text": "Thiết lập các tiêu chí chất lượng thích hợp cho kết quả thực hiện dự án và xác định các thủ tục để đáp ứng cho các tiêu chí này."
+      }
+    ],
+    "question": "Giải thích nào sau đây là phù hợp với đảm bảo chất lượng trong quản lý chất lượng dự án?",
+    "image": ""
+  }
+],
+"test8": [
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "Giám đốc dự án, đội dự án, các giám đốc cao cấp và khách hàng"
+      },
+      {
+        "key": "T2",
+        "text": "Giám đốc cao cấp, giám đốc chức năng, khách hàng và nhà tài trợ"
+      },
+      {
+        "key": "T3",
+        "text": "Giám đốc dự án, giám đốc chức năng, khách hàng và giám đốc cao cấp"
+      },
+      {
+        "key": "D",
+        "text": "Giám đốc dự án, khách hàng, tổ chức thực hiện và các nhà tài trợ"
+      }
+    ],
+    "question": "Bốn đối tượng liên quan chính trong mỗi dự án?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "Giai đoạn thực thi"
+      },
+      {
+        "key": "T2",
+        "text": "Giai đoạn hoàn thiện"
+      },
+      {
+        "key": "T3",
+        "text": "Giai đoạn xây dựng"
+      },
+      {
+        "key": "D",
+        "text": "Giai đoạn lập kế hoạch"
+      }
+    ],
+    "question": "Các nhà tài trợ dự án có ảnh hưởng lớn nhất đến phạm vi, chất lượng, thời đoạn và chi phícủa dự án trong suốt giai đoạn nào?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Khả năng về nguồn lực"
+      },
+      {
+        "key": "T1",
+        "text": "Chi phí nhiệm vụ"
+      },
+      {
+        "key": "T2",
+        "text": "Thông tin lịch sử về các dự án đã hoàn thành"
+      },
+      {
+        "key": "T3",
+        "text": "Những người đi trước và người thành công"
+      }
+    ],
+    "question": "Nhân tố nào ảnh hưởng lớn nhất tới thời đoạn thực tế của các nhiệm vụ dự án?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Khoán ngoài (outsourcing)"
+      },
+      {
+        "key": "T1",
+        "text": "Hệ thống mở"
+      },
+      {
+        "key": "T2",
+        "text": "Giảm cỡ (Down-sizing)"
+      },
+      {
+        "key": "T3",
+        "text": "Làm đúng cỡ (Right-sizing)"
+      }
+    ],
+    "question": "Thuật ngữ nào sau đây liên quan đến việc thực hiện đưa một công việc thầu phụ ví dụ như xây dựng vận hành và quản trị hệ thống ra một công ty bên ngoài?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Đội ngũ dân chủ bao gồm các thành viên có quyền hạn và nghĩa vụ ngang nhau. Cho phép trao đổi ý kiến tự do, nhưng người lãnh đạo không thể phát huy vai trò lãnh đạo kiên quết được."
+      },
+      {
+        "key": "T1",
+        "text": "Đội có cấu trúc phân cấp bao gồm một người quản trị, nhiều người lãnh đạo và các nhân viên. Ưu điểm là ở chỗ trách nhiệm của từng thành viên được xác định rõ ràng, nhưng nhược điểm là ở chỗ thường tồn tại những vấn đề về trao đổi thông tin."
+      },
+      {
+        "key": "T2",
+        "text": "Một đội chuyên gia bao gồm các thành viên có chuyên môn và kỹ năng. Được kiểm soát bởi người quản lý là chuyên viên quản lý."
+      },
+      {
+        "key": "T3",
+        "text": "Trong đội lập trình viên chính, người lãnh đạo có thể phát huy vai trò lãnh đạo kiên quyết nhưng cũng chịu một gánh nặng. Do đó, khó áp dụng vào dự án quy mô lớn và dài hạn."
+      }
+    ],
+    "question": "Mô tả nào sau đây là mô tả thích hợp liên quan tới tổ chức của đội phát triển phần mềm?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Những chỉ thị có thể chuyển từ trên xuống dưới một cách nhất quán bằng cách chia tổ chức thành vài tầng và thiết bị lập trách nhiệm cũng như quyền lực mỗi tầng."
+      },
+      {
+        "key": "T1",
+        "text": "Vì một thành viên trong tổ chức có thể nhận chỉ thị từ một hoặc nhiều người cấp trên, điều quan trọng là xây dựng một tổ chức có thể hỗ trợ điều đó."
+      },
+      {
+        "key": "T2",
+        "text": "Một hệ thống tổ chức mà trong đó mỗi thành viên riêng biệt có thể chịu trách nhiệm đối với một quy trình nghiệp vụ chuyên môn là không nên. Sự hài hòa với những người khác là điều quan trọng."
+      },
+      {
+        "key": "T3",
+        "text": "Mặc dù việc xác định mở rộng kiểm soát là quan trọng, nhưng không thể xác định trước số lượng thích hợp nhưng người cấp dưới mà mỗi người cấp trên có thể quản lý. Do đo, tốt hơn cả là có một người quản lý được càng nhiều càng tốt."
+      }
+    ],
+    "question": "Phát biểu nào sau đây là phát biểu về những nguyên tắc cơ bản về cấu trúc của một tổ chức?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Trong trường hợp phát triển hệ thống theo hợp đồng thầu khoán, mọi bản quyền về chương trình đã phát triển đều thuộc vào người thầu trừ phi được xác định khác."
+      },
+      {
+        "key": "T1",
+        "text": "Một hợp đồng uỷ thác không quy định trách nhiệm cho việc hoàn thành công việc; do đó bên uỷ thác có quyền chỉ đạo trực tiếp."
+      },
+      {
+        "key": "T2",
+        "text": "Trong trường hợp phát triển hệ thống theo hợp đồng khoán ngoài hay hợp đồng cho thuê lao động, người thầu chịu trách nhiệm hoàn thành công việc."
+      },
+      {
+        "key": "T3",
+        "text": "Nếu phát hiện khiếm khuyết nghiêm trọng trong chương trình do người phát triển làm ra, mà người này được cử tới từ công ty khác, thì công ty đó có trách nhiệm với khiếm khuyết đó."
+      }
+    ],
+    "question": "Mệnh đề nào sau đây là đúng cho việc thuê công ty bên ngoài phát triển hệ thống?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "D"
+    ],
+    "answers": [
+      {
+        "key": "D",
+        "text": "Chủ đầu tư (sponsor)"
+      },
+      {
+        "key": "T1",
+        "text": "Khách hàng"
+      },
+      {
+        "key": "T2",
+        "text": "Các lãnh đạo công ty"
+      },
+      {
+        "key": "T3",
+        "text": "Nhân viên đội dự án"
+      }
+    ],
+    "question": "Thách thức lớn nhất khi quản lý các bên liên quan là làm việc với…",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "Mỗi người có một sở trường sở đoản riêng."
+      },
+      {
+        "key": "T2",
+        "text": "Quản lý dự án không thể thay đổi con người của mỗi thành viên dự án."
+      },
+      {
+        "key": "T3",
+        "text": "Quản lý dự án phải biết được điểm mạnh điểm yếu của từng thành viên."
+      }
+    ],
+    "question": "Đâu là lý do của việc phải sử dụng đúng người đúng việc trong phân bổ nhân lực của dự án?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "phải có cái nhìn tổng thể về dự án, các bên liên quan, các hạng mục công việc,…"
+      },
+      {
+        "key": "T2",
+        "text": "luôn biết đâu là việc đúng cần phải làm (danh sách công việc, WBS, Project network, Grant chart là các công cụ hữu ích)"
+      },
+      {
+        "key": "T3",
+        "text": "luôn biết ai là người phù hợp để cổ vũ, động viên kịp thời và luôn nhấn mạnh ý nghĩa của công việc."
+      }
+    ],
+    "question": "Những yêu cầu cơ bản của một quản lý dự án để thể hiện tốt vai trò lãnh đạo dự án là…",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "Vì minh bạch chính trực là nền tảng cho dự án thành công"
+      },
+      {
+        "key": "T2",
+        "text": "Vì minh bạch chính trực là nền tảng cho hiệu quả và chất lượng công việc"
+      },
+      {
+        "key": "T3",
+        "text": "Vì quản lý dự án phải làm gương. Khi nhân viên không tin tưởng, quản lý dự không thể làm được gì."
+      }
+    ],
+    "question": "Tại sao tố chất minh bạch chính trực là rất quan trọng đối với quản lý dự án?",
+    "image": ""
+  },
+  {
+    "corrects": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "answers": [
+      {
+        "key": "T1",
+        "text": "Người lãnh đạo có ý nghĩa trong mọi công việc."
+      },
+      {
+        "key": "T2",
+        "text": "Tôn trọng đối tác, mình sẽ được tôn trọng."
+      },
+      {
+        "key": "T3",
+        "text": "Làm việc với lãnh đạo sẽ quyết được nhiều việc nhanh và hiệu quả và cấp dưới của đối tác sẽ nỗ lực hơn."
+      }
+    ],
+    "question": "Tại sao quản lý dự án phải xây dựng mối quan hệ tốt với lãnh đạo của khách hàng?",
+    "image": ""
+  }
 ]
 }
