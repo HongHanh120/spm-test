@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/index.js"
+    "start": "node ./src/index.js",
+    "build": "webpack --mode production"
   },
   "author": "",
   "license": "ISC",
@@ -40,5 +41,20 @@
     "sass-loader": "^10.0.3",
     "to-string-loader": "^1.1.6",
     "url-loader": "^4.1.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
